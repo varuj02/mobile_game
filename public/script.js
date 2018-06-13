@@ -8,5 +8,5 @@ function setup(){
 }
 function draw(){
     background("#acacac");
-    rect(mouseX,displayHeight/2,side,side);
+    rect(pmouseX,displayHeight/2,side,side);
 }
